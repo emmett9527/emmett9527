@@ -4,7 +4,7 @@
 
 ### 💻 Git Stats
 
-[![Emmett Woo's Github Stats](https://github-readme-stats.vercel.app/api?username=emmettwoo&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Emmett Woo's Github Stats](https://github-readme-stats.vercel.app/api?username=emmett9527&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 联系到我
 
