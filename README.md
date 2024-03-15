@@ -1,12 +1,12 @@
 ### 👋 你好，世界
 
-这里是 马卡 Maca。
+Bibu Bibu...
 
-### 💻 Git Stats
+### 💻 活動狀態
 
 [![Emmett Woo's Github Stats](https://github-readme-stats.vercel.app/api?username=emmett9527&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💬 联系到我
+### 💬 聯絡方式
 
 - 個人博客: https://blog.initialize.in/
 - 電子郵箱: emmettwoo@outlook.com
